@@ -116,3 +116,8 @@ section .codeweb:last-of-type img{
 section p {
 	font-style: italic;
 }
+
+.codeweb img {
+	width:200px;
+	height:150px;
+}
